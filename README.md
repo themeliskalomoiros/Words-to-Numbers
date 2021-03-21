@@ -1,8 +1,8 @@
 # Words-to-Numbers
-Solution for a CodeWars Kata. 
+##Solution for a CodeWars Kata. 
 
-
-In this kata we want to convert a string into an integer. The strings simply represent the numbers in words.
+## Description
+Convert a string into an integer. The strings simply represent the numbers in words.
 
 Examples:
 
